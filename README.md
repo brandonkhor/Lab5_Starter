@@ -7,7 +7,7 @@
 2. Unit testing is suitable for this use case because we are testing a small, isolated part of the application — the logic that enforces a maximum message length of 80 characters. This feature does not depend on other components or user interactions across the system, making it ideal for unit tests.
 
 ### Expose
-![Expose](https://brandonkhor.github.io/Lab5_Starter/expose.html)
+[Expose](https://brandonkhor.github.io/Lab5_Starter/expose.html)
 
 ### Explore
-![Explore](https://brandonkhor.github.io/Lab5_Starter/explore.html)
+[Explore](https://brandonkhor.github.io/Lab5_Starter/explore.html)
